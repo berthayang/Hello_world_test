@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intel.SPEED.Module.Web.IlmDivSubscription", "Intel.SPEED.Module.Web.IlmDivSubscription\Intel.SPEED.Module.Web.IlmDivSubscription.csproj", "{6DA16C76-6AF9-4C72-BDE1-CD86F648C7EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intel.SPEED.Core.Extension", "..\..\..\Core\Intel.SPEED.Core.Extension\Intel.SPEED.Core.Extension\Intel.SPEED.Core.Extension.csproj", "{179B9F76-5B47-45EB-9439-8C1BF7264FDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intel.SPEED.Core.Web.Client.Extension", "..\..\..\Core\Intel.SPEED.Core.Extension\Intel.SPEED.Core.Web.Client.Extension\Intel.SPEED.Core.Web.Client.Extension.csproj", "{8D188A8C-B4BB-4F09-B45A-5BF4D602B3E2}"
+EndProject
+Project("{C8D11400-126E-41CD-887F-60BD40844F9E}") = "Intel.SPEED.Module.SQL.IlmDivSubscription", "Intel.SPEED.Module.SQL.IlmDivSubscription\Intel.SPEED.Module.SQL.IlmDivSubscription.dbproj", "{67CBC824-A49E-4E9B-A947-360F3DFE65C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intel.SPEED.Core", "..\..\..\..\..\SPEED\DEVELOPMENT\Core\Library\Intel.SPEED.Core\Intel.SPEED.Core.csproj", "{AF8D9CAA-0D37-43EB-9ABC-DB92A5DDD8D7}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://speed-source.intel.com:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Intel.SPEED.Module.Web.IlmDivSubscription\\Intel.SPEED.Module.Web.IlmDivSubscription.csproj
+		SccProjectName1 = Intel.SPEED.Module.Web.IlmDivSubscription
+		SccLocalPath1 = Intel.SPEED.Module.Web.IlmDivSubscription
+		SccProjectUniqueName2 = ..\\..\\..\\Core\\Intel.SPEED.Core.Extension\\Intel.SPEED.Core.Extension\\Intel.SPEED.Core.Extension.csproj
+		SccProjectName2 = ../../../Core/Intel.SPEED.Core.Extension/Intel.SPEED.Core.Extension
+		SccLocalPath2 = ..\\..\\..\\Core\\Intel.SPEED.Core.Extension\\Intel.SPEED.Core.Extension
+		SccProjectUniqueName3 = ..\\..\\..\\Core\\Intel.SPEED.Core.Extension\\Intel.SPEED.Core.Web.Client.Extension\\Intel.SPEED.Core.Web.Client.Extension.csproj
+		SccProjectName3 = ../../../Core/Intel.SPEED.Core.Extension/Intel.SPEED.Core.Web.Client.Extension
+		SccLocalPath3 = ..\\..\\..\\Core\\Intel.SPEED.Core.Extension\\Intel.SPEED.Core.Web.Client.Extension
+		SccProjectUniqueName4 = Intel.SPEED.Module.SQL.IlmDivSubscription\\Intel.SPEED.Module.SQL.IlmDivSubscription.dbproj
+		SccProjectName4 = Intel.SPEED.Module.SQL.IlmDivSubscription
+		SccLocalPath4 = Intel.SPEED.Module.SQL.IlmDivSubscription
+		SccProjectUniqueName5 = ..\\..\\..\\..\\..\\SPEED\\DEVELOPMENT\\Core\\Library\\Intel.SPEED.Core\\Intel.SPEED.Core.csproj
+		SccProjectName5 = ../../../../../SPEED/DEVELOPMENT/Core/Library/Intel.SPEED.Core
+		SccLocalPath5 = ..\\..\\..\\..\\..\\SPEED\\DEVELOPMENT\\Core\\Library\\Intel.SPEED.Core
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		WPF Debug|Any CPU = WPF Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DA16C76-6AF9-4C72-BDE1-CD86F648C7EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DA16C76-6AF9-4C72-BDE1-CD86F648C7EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DA16C76-6AF9-4C72-BDE1-CD86F648C7EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DA16C76-6AF9-4C72-BDE1-CD86F648C7EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DA16C76-6AF9-4C72-BDE1-CD86F648C7EC}.WPF Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DA16C76-6AF9-4C72-BDE1-CD86F648C7EC}.WPF Debug|Any CPU.Build.0 = Debug|Any CPU
+		{179B9F76-5B47-45EB-9439-8C1BF7264FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{179B9F76-5B47-45EB-9439-8C1BF7264FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{179B9F76-5B47-45EB-9439-8C1BF7264FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{179B9F76-5B47-45EB-9439-8C1BF7264FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{179B9F76-5B47-45EB-9439-8C1BF7264FDC}.WPF Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{179B9F76-5B47-45EB-9439-8C1BF7264FDC}.WPF Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D188A8C-B4BB-4F09-B45A-5BF4D602B3E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D188A8C-B4BB-4F09-B45A-5BF4D602B3E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D188A8C-B4BB-4F09-B45A-5BF4D602B3E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D188A8C-B4BB-4F09-B45A-5BF4D602B3E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D188A8C-B4BB-4F09-B45A-5BF4D602B3E2}.WPF Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D188A8C-B4BB-4F09-B45A-5BF4D602B3E2}.WPF Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67CBC824-A49E-4E9B-A947-360F3DFE65C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67CBC824-A49E-4E9B-A947-360F3DFE65C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67CBC824-A49E-4E9B-A947-360F3DFE65C3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{67CBC824-A49E-4E9B-A947-360F3DFE65C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67CBC824-A49E-4E9B-A947-360F3DFE65C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67CBC824-A49E-4E9B-A947-360F3DFE65C3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{67CBC824-A49E-4E9B-A947-360F3DFE65C3}.WPF Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67CBC824-A49E-4E9B-A947-360F3DFE65C3}.WPF Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67CBC824-A49E-4E9B-A947-360F3DFE65C3}.WPF Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AF8D9CAA-0D37-43EB-9ABC-DB92A5DDD8D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF8D9CAA-0D37-43EB-9ABC-DB92A5DDD8D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF8D9CAA-0D37-43EB-9ABC-DB92A5DDD8D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF8D9CAA-0D37-43EB-9ABC-DB92A5DDD8D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF8D9CAA-0D37-43EB-9ABC-DB92A5DDD8D7}.WPF Debug|Any CPU.ActiveCfg = WPF Debug|Any CPU
+		{AF8D9CAA-0D37-43EB-9ABC-DB92A5DDD8D7}.WPF Debug|Any CPU.Build.0 = WPF Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
